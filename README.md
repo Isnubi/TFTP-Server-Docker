@@ -117,7 +117,7 @@ Use a TFTP client to transfer files to the server.
 <!-- ROADMAP -->
 ## Roadmap
 
-- [ ] Work outside the docker container
+- [ ] Work outside the docker container [issue #1](https://github.com/Isnubi/TFTP-Server-Docker/issues/1)
 
 See the [open issues](https://github.com/Isnubi/TFTP-Server-Docker/issues) for a full list of proposed features (and known issues).
 
