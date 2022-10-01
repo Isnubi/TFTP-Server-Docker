@@ -1,0 +1,7 @@
+services:
+  tftp:
+    build:
+        context: .
+    ports:
+      - "69:69/udp"
+    tty: true
