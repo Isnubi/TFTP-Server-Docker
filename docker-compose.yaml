@@ -4,4 +4,5 @@ services:
         context: .
     ports:
       - "69:69/udp"
+      - "60000-60010:60000-60010"
     tty: true
